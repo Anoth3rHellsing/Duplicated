@@ -1,0 +1,37 @@
+MIT License with Attribution Requirement
+
+Copyright (c) 2026 nicol & Claude (Anthropic)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+
+2. Any public distribution, fork, or derivative work MUST retain visible
+   attribution to both original authors:
+     - nicol (project creator and maintainer)
+     - Claude by Anthropic (AI co-author and code contributor)
+
+3. This attribution requirement applies to README files, about dialogs,
+   documentation, and any user-facing interface where authorship is displayed.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Resumen en español / Spanish Summary:
+
+Eres libre de usar, modificar y distribuir este software para cualquier
+propósito. La única condición es que mantengas la atribución visible a los
+autores originales: nicol y Claude (Anthropic). No se ofrece ninguna garantía.
